@@ -5,3 +5,5 @@ https://wiki.dfrobot.com/SKU_SEN0546_I2C_Temperature_and_Humidity_Sensor_Stainle
 The file "I2C_CHT8305_SEN0546.py" is written in Micropython.
 
 The corret Bitshift for the “Heater ON” needs to be implemented, now is it hardcoded.
+
+The file "CHT8305_SEN0546_new.py" is written in CircuitPython.
